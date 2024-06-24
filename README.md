@@ -67,5 +67,14 @@ This project is a graphical user interface (GUI) application developed in Java u
 
 ![Screenshot 2024-06-24 223244](https://github.com/Samah022/hex-sudoku-game/assets/97039075/e594ea59-4ef5-4a09-a457-2a6b0f632e38)
 
+## Contributors ✍️
+
+- Fatima Aljalmoud
+- leen khalil
+- Rash Ashawe
+- Reem Bayazid
+- Salwa Shamma
+- Samah Shamma
+- Sana Shmama
 
 Developed with ❤️ for the Software Construction Course. Enjoy solving puzzles! 🧩✨
