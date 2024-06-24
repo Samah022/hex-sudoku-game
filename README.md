@@ -1,4 +1,4 @@
-# Puzzle Client Application 🧩
+# Puzzle Application 🧩
 
 ## Summary
 
