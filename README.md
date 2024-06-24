@@ -58,10 +58,14 @@ This project is a graphical user interface (GUI) application developed in Java u
         ```
 
 ## Screenshots
-![Screenshot 2024-06-24 223206](https://github.com/Samah022/hex-sudoku-game/assets/97039075/ef76e379-14c2-4588-8890-759bfe67db41)
-![Screenshot 2024-06-24 223220](https://github.com/Samah022/hex-sudoku-game/assets/97039075/e2f0131b-7299-434f-9132-dc1ec10c3bfb)
-![Screenshot 2024-06-24 223244](https://github.com/Samah022/hex-sudoku-game/assets/97039075/aad75cf8-c6de-44b4-a4bb-87a5b3ca106a)
-![Screenshot 2024-06-24 223154](https://github.com/Samah022/hex-sudoku-game/assets/97039075/79e1a986-e08f-4461-9daa-d454f90abbc2)
+
+![Screenshot 2024-06-24 223154](https://github.com/Samah022/hex-sudoku-game/assets/97039075/be8caaed-c91d-45f1-b340-73d1fc17d2a1)
+
+![Screenshot 2024-06-24 223206](https://github.com/Samah022/hex-sudoku-game/assets/97039075/a25ef619-45ba-48ae-a7fe-740efbcfba93)
+
+![Screenshot 2024-06-24 223220](https://github.com/Samah022/hex-sudoku-game/assets/97039075/426bfc22-8108-4640-b8e0-17f12335ad19)
+
+![Screenshot 2024-06-24 223244](https://github.com/Samah022/hex-sudoku-game/assets/97039075/e594ea59-4ef5-4a09-a457-2a6b0f632e38)
 
 
 Developed with ❤️ for the Software Construction Course. Enjoy solving puzzles! 🧩✨
