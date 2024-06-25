@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project is a graphical user interface (GUI) application developed in Java using Swing. The application allows users to fetch, solve, and verify Sudoku and HexSudoku puzzles. It was developed as part of a software construction course to demonstrate various software engineering concepts and techniques such as GUI design, network communication, file handling, and user input validation.
+This project is a puzzle game developed in Java. The application allows users to fetch, solve, and verify Sudoku and HexSudoku puzzles. It was developed as part of a software construction course to demonstrate various software engineering concepts and techniques, such as client & server-side architecture, abstraction, and parsing.
 
 ## Features
 
@@ -34,25 +34,15 @@ This project is a graphical user interface (GUI) application developed in Java u
     ```
 2. **Open the Project** in your preferred Java IDE.
 3. **Run the Application**:
-   a. Run server
-     1. navigate to the directory where your .java file is located using the cd command.
+   1. navigate to the directory where your .java file is located using the cd command.
      ```sh
       cd Specification&Design&Implementation
       ```
-     2. compile the PuzzleServer.java file, use the javac command
-     ```sh
-      javac PuzzleServer.java
-      ```
-     3. Run the server
+   2. Run server
       ```sh
       java PuzzleServer
       ```
-    b. Run Client
-    1. compile the PuzzleClient.java file, use the javac command
-       ```sh
-        javac PuzzleClient.java
-        ```
-   3. Run the client
+   3. Run Client
         ```sh
         java PuzzleClient
         ```
